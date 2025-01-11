@@ -1,10 +1,10 @@
-import { HeaderMain } from "./components/Header/HeaderMain";
+import HeaderMain from "./components/Header/HeaderMain";
 
 function App() {
 
   return (
     <>
-      <HeaderMain></HeaderMain>
+    <HeaderMain></HeaderMain>
     </>
   )
 
